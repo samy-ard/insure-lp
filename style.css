@@ -373,11 +373,6 @@ img {
 
 /* Responsive */
 @media screen and ( min-width: 1200px ) {
-	.site-page {
-		max-width: 90rem;
-		margin: 0 auto;
-	}
-
 	h1, .h1 {
 		font-size: 4.4375rem;
 	}
